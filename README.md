@@ -28,7 +28,7 @@
 
 <p align="center">
     <a href="">
-        <img src="https://github.com/marcosbarker/exerc.poo.func.02/blob/main/img/2.jpg" alt="imagem terminal">
+        <img src="https://github.com/marcosbarker/exerc.poo.func.02/blob/main/img/img-term.jpg" alt="imagem terminal">
     </a>
     </p>
 
